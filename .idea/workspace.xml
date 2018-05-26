@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d13332c1-28ce-4af5-8d76-9b7b437c9365" name="Default" comment="" />
+    <list default="true" id="d13332c1-28ce-4af5-8d76-9b7b437c9365" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +19,15 @@
       <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="120">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
@@ -35,7 +42,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -69,12 +76,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/manage.py" />
         <option value="$PROJECT_DIR$/template/base.py" />
         <option value="$PROJECT_DIR$/template/base.html" />
         <option value="$PROJECT_DIR$/template/index.html" />
         <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
   </component>
@@ -199,7 +206,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="640" height="733" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -207,8 +213,8 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32861635" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32861635" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28595316" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32861635" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28595316" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -231,13 +237,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/base.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -264,6 +263,16 @@
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
